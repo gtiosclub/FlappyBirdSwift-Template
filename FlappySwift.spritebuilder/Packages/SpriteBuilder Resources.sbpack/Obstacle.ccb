@@ -35,8 +35,6 @@
 	<false/>
 	<key>nodeGraph</key>
 	<dict>
-		<key>UUID</key>
-		<integer>1</integer>
 		<key>baseClass</key>
 		<string>CCNode</string>
 		<key>children</key>
@@ -69,7 +67,7 @@
 					<key>collisionMask</key>
 					<array/>
 					<key>collisionType</key>
-					<string>level</string>
+					<string></string>
 					<key>cornerRadius</key>
 					<real>0.0</real>
 					<key>density</key>
@@ -242,7 +240,7 @@
 					<key>collisionMask</key>
 					<array/>
 					<key>collisionType</key>
-					<string>level</string>
+					<string></string>
 					<key>cornerRadius</key>
 					<real>0.0</real>
 					<key>density</key>
@@ -415,7 +413,7 @@
 					<key>collisionMask</key>
 					<array/>
 					<key>collisionType</key>
-					<string>goal</string>
+					<string></string>
 					<key>cornerRadius</key>
 					<real>0.0</real>
 					<key>density</key>
@@ -529,6 +527,8 @@
 						</array>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 		</array>
 		<key>customClass</key>

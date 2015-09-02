@@ -63,7 +63,7 @@
 	<key>publishToZipFile</key>
 	<false/>
 	<key>resourceAutoScaleFactor</key>
-	<integer>2</integer>
+	<integer>4</integer>
 	<key>resourcePaths</key>
 	<array>
 		<dict>
@@ -76,11 +76,6 @@
 		<key></key>
 		<dict>
 			<key>previewFolderHidden</key>
-			<true/>
-		</dict>
-		<key>FlappyBirdArtPack/fly2.png</key>
-		<dict>
-			<key>isDirty</key>
 			<true/>
 		</dict>
 		<key>Sprites</key>
